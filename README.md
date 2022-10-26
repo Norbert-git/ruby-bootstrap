@@ -3,11 +3,15 @@
 Add Bootstrap to project
 
 Go to getbootstrap.com
+
 Go to DOCS
+
 V 4.5
+
 Find Starter template and copy it
 
-go to
+Go to
+
 app/views/layouts/application.html.erb
 
 - copy the file from this project and change the title
